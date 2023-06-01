@@ -57,4 +57,4 @@ Before contributing, please ensure that you have read and understood our **Code 
 
 We appreciate your interest in contributing to Kubesimplify Blogs. By following the guidelines and best practices outlined in this document, you can help us maintain high-quality blogs with informative content. 
 
-If you have any questions or feedback, please feel free to reach out to us at kubesimplify@gmail.com.
+If you have any questions or feedback, please feel free to reach out to us at kubesimplify@gmail.com or **#kblogs** channel on our [discord community](https://discord.gg/QmsqabA2xT).
