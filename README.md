@@ -8,3 +8,5 @@ This is the repo for blog collaboration with [Kubesimplify](https://blog.kubesim
 
 - [Contributing Guide](https://github.com/kubesimplify/kblogs/blob/main/CONTRIBUTING.md)
 - [Style Guide](https://github.com/kubesimplify/kblogs/blob/main/STYLE_GUIDE.md)
+
+If you have any questions or feedback, please feel free to reach out to us at kubesimplify@gmail.com or the **#kblogs** channel on our [discord community](https://discord.gg/QmsqabA2xT).
