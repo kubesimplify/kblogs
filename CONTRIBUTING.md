@@ -47,7 +47,7 @@ To contribute to the KubeSimplify blog, please follow the steps below:
 
 ## Guideline for Blog Posts
 
-Please make sure to follow the guidelines and best practices mentioned in the [Style Guide](https://) while writing your blog post.
+Please make sure to follow the guidelines and best practices mentioned in the [Style Guide](https://github.com/kubesimplify/kblogs/blob/main/STYLE_GUIDE.md) while writing your blog post.
 
 ## Code of Conduct
 
